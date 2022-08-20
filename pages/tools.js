@@ -2,7 +2,7 @@ import ToolsGrid from '/components/ToolsGrid'
 import { PageSEO } from '@/components/SEO'
 import siteMetadata from '/data/siteMetadata'
 import { HeartIcon } from '@heroicons/react/solid'
-import { AiFillVideoCamera, AiFillFormatPainter , AiOutlineDesktop } from 'react-icons/ai'
+import { AiFillVideoCamera, AiFillFormatPainter, AiOutlineDesktop } from 'react-icons/ai'
 import { Tab } from '@headlessui/react'
 
 export default function Tools() {
