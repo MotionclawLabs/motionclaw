@@ -4,8 +4,8 @@ const siteMetadata = {
   headerTitle: 'Motionclaw Labs Portofolio',
   description: 'Our Portofolio',
   language: 'en-us',
-  theme: 'dark', // system, dark or light
-  siteUrl: '',
+  theme: 'system', // system, dark or light
+  siteUrl: 'https://motionclawlabs.vercel.app/',
   siteRepo: '',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.jpg',
@@ -14,7 +14,7 @@ const siteMetadata = {
   github: 'https://youtube.com',
   twitter: 'https://youtube.com',
   facebook: 'https://youtube.com',
-  youtube: 'https://youtube.com',
+  youtube: 'https://www.youtube.com/channel/UCNFP2FOUcvWGrFncPv2FHDA',
   linkedin: 'https://www.linkedin.com/',
   locale: 'id-ID',
   analytics: {
@@ -50,7 +50,7 @@ const siteMetadata = {
       metadata: '0',
       // theme example: light, dark, dark_dimmed, dark_high_contrast
       // transparent_dark, preferred_color_scheme, custom
-      theme: 'light',
+      theme: 'dark',
       // Place the comment box above the comments. options: bottom, top
       inputPosition: 'bottom',
       // Choose the language giscus will be displayed in. options: en, es, zh-CN, zh-TW, ko, ja etc

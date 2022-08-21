@@ -1,5 +1,44 @@
 const projectsData = [
   {
+    title:
+      'Pengenalan Kehidupan Kampus Bagi Mahasiswa Baru Universitas Malikussaleh (PKKMB UNIMAL) 2019',
+    description: `The motionclaw labs team documented the PKKMB UNIMAL activities which were carried out for 3 days. in this video our team packs a grand and exciting whole activity in 5 minutes duration.`,
+    imgSrc: '/static/images/pkkmb1.gif',
+    href: 'https://www.youtube.com/watch?v=XWhL4m8Bzf0',
+  },
+  {
+    title:
+      'Mozaik Pengenalan Kehidupan Kampus Bagi Mahasiswa Baru Universitas Malikussaleh (PKKMB UNIMAL) 2019',
+    description: `During the PKKMB activity, UNIMAL also carried out mosaic activities, so the motionclaw team made a video of this magnificent activity.`,
+    imgSrc: '/static/images/pkkmb2.gif',
+    href: 'https://www.youtube.com/watch?v=18HIyLZeYNM&ab_channel=MotionclawLabs',
+  },
+  {
+    title:
+      'Tagline Pengenalan Kehidupan Kampus Bagi Mahasiswa Baru Universitas Malikussaleh (PKKMB UNIMAL) 2019',
+    description: `This video was made to promote the Tagline of PPKMB UNIMAL activities. the videos that we pack by taking a lot of footage from different people by conveying the relevant tagline.`,
+    imgSrc: '/static/images/pkkmb3.gif',
+    href: 'https://www.youtube.com/watch?v=ASqtoVJbaWQ&ab_channel=MotionclawLabs',
+  },
+  {
+    title: 'HUT Bank Rakyat Indonesia Cabang Kota Lhokseumawe 2019',
+    description: `When anniversary of Bank Rakyat Indonesia, the Motionclaw Labs Team collaborated with BRI.`,
+    imgSrc: '/static/images/bri2019.gif',
+    href: 'https://www.youtube.com/watch?v=evb5Er0TMJQ&ab_channel=MotionclawLabs',
+  },
+  {
+    title: 'Penanaman Pohon Serentak SATBRIMOB POLDA ACEH',
+    description: `This activity was carried out by the BRIMOB Aceh Utara. The Motionclaw Labs team collaborates in documenting activities that will become a media campaign in forest reforestation.`,
+    imgSrc: '/static/images/brimob.gif',
+    href: 'https://www.youtube.com/watch?v=4rc2YMTs2-c&ab_channel=MotionclawLabs',
+  },
+  {
+    title: 'Gema Safa Festival',
+    description: `Gema Safa Festival was held by Magnum. The Motionclaw Labs team becomes the documentation committee at the festival. where we make video documentation during the event.`,
+    imgSrc: '/static/images/gemasafa.gif',
+    href: 'https://www.youtube.com/watch?v=dvxVPwI10Tw&ab_channel=MotionclawLabs',
+  },
+  {
     title: '3D HUT Lhokseumawe 18',
     description: `3D Concept Stage of HUT Lhokseumawe 18,`,
     imgSrc: '/static/images/hutlhokconcept.png',
@@ -30,12 +69,6 @@ const projectsData = [
     href: 'https://drive.google.com/drive/folders/1uTc3ENU5n5drRtzRQyRLh9HGtayWCWer',
   },
   {
-    title: 'PKKMB UNIMAL 2019',
-    description: `Pengenalan Kehidupan Kampus bagi Mahasiswa Baru Universitas Malikussaleh 2019.`,
-    imgSrc: '/static/images/pkkmb.png',
-    href: 'https://drive.google.com/drive/folders/1YwGG44LdIMNCLTElRsQbIfhc5qDMhIGy',
-  },
-  {
     title: '3D Design of Kejaksaan Negeri Lhokseumawe',
     description: `3D Design Concept of Kejaksaan Negeri Lhokseumawe.`,
     imgSrc: '/static/images/3dkejaksaan.png',
@@ -64,18 +97,6 @@ const projectsData = [
     description: `Videos of Inovasi Desa 2018.`,
     imgSrc: '/static/images/inovasidesa2018.png',
     href: 'https://drive.google.com/drive/folders/1WdZdzRQRGD03zBsMwbGSsPFVlRVr2Tcy',
-  },
-  {
-    title: 'HUT BRI Lhokseumawe 2019',
-    description: `Video Documentation of HUT BRI Lhokseumawe 2019.`,
-    imgSrc: '/static/images/bri2019.png',
-    href: 'https://rr5---sn-npoeene7.c.drive.google.com/videoplayback?expire=1660992885&ei=NYUAY9CkL4-mugLCtYvgAg&ip=36.79.6.98&cp=QVRLUkpfUVhWRlhPOmM5dURyMHJPZklnYTBqRjNfcnBqeVR4QmpEelVMZ1pXLWJxSXBFa1dKbFo&id=8ce8e56b57fe4094&itag=22&source=webdrive&requiressl=yes&ttl=transient&susc=dr&driveid=1SCcFQsho3BZBAosdVW1ZoFqYmZUt3TIM&app=explorer&mime=video/mp4&vprv=1&prv=1&dur=557.975&lmt=1660936349011116&subapp=DRIVE_WEB_FILE_VIEWER&txp=0011224&sparams=expire,ei,ip,cp,id,itag,source,requiressl,ttl,susc,driveid,app,mime,vprv,prv,dur,lmt&sig=AOq0QJ8wRQIhALlWSZA5wPEW_AlO63rS0Yw5uOinK9RX9HS6rcKwWzgPAiBXzwQNeOTFkUF7xFpKyb8lcAJJdy_GznodONeCgKrQmA==&cpn=OjT3gJssdFJZaML_&c=WEB_EMBEDDED_PLAYER&cver=1.20220817.01.00&redirect_counter=1&cm2rm=sn-npolz76&req_id=29c256b12b2fa3ee&cms_redirect=yes&cmsv=e&mh=-1&mm=34&mn=sn-npoeene7&ms=ltu&mt=1660978598&mv=m&mvi=5&pl=19&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRAIgf1BVIRy5T_97wBaw_G710MtsUeg3oOEG6xDwUKaRzcwCIEptVkTpMc7dIv_bdPcu7ovmPEtkxYnJfBkBFR83ByWq',
-  },
-  {
-    title: 'Satbrimob Polda Aceh',
-    description: `Penanaman Pohon Serentak Satbrimob Polda Aceh Beserta Jajaran.`,
-    imgSrc: '/static/images/brimob.png',
-    href: 'https://rr4---sn-npoe7ns6.c.drive.google.com/videoplayback?expire=1660993372&ei=HIcAY-GrKsSplAeQvYOYAg&ip=36.79.6.98&cp=QVRLUkpfUlNVQ1hPOmM5dUVtOW9PZklnYTBrQTJfcnBqeVR4Q2VDd1VMZ1pXLWNsSG1Fa1dKbFo&id=7d0d31a7f642cb4e&itag=22&source=webdrive&requiressl=yes&ttl=transient&susc=dr&driveid=1DSJ7mTqaNOclOFJMGEevRBkYQu_TDb2j&app=explorer&mime=video/mp4&vprv=1&prv=1&dur=180.372&lmt=1660926487949762&subapp=DRIVE_WEB_FILE_VIEWER&txp=0011224&sparams=expire,ei,ip,cp,id,itag,source,requiressl,ttl,susc,driveid,app,mime,vprv,prv,dur,lmt&sig=AOq0QJ8wRQIgDwxZKq_f6s01qyKfayRmAD1ZlT-hvfT8gjPJ8qeT_UECIQDcIVd8iFXDx0pF0XRnq-Bkbdy6lFbcNR7WZfOqY_MFkw==&cpn=07nIb3-VZpbkdNMU&c=WEB_EMBEDDED_PLAYER&cver=1.20220817.01.00&redirect_counter=1&cm2rm=sn-npod776&req_id=366f224b276ba3ee&cms_redirect=yes&cmsv=e&mh=iS&mm=34&mn=sn-npoe7ns6&ms=ltu&mt=1660978839&mv=m&mvi=4&pl=19&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRAIgXevNepC8dCOxHc7PLAdOUSDft18vaXWrzBLGnGPOY98CIAzv-jCZ7Xzcu66bVb6XtPw7mBAWEMpyxCdFU13mmJkF',
   },
   {
     title: 'Dies Natalis Universitas Malikussaleh ke-16 2017',

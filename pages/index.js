@@ -1,5 +1,6 @@
 import Link from '@/components/Link'
 import { PageSEO } from '@/components/SEO'
+import dynamic from 'next/dynamic'
 import Tag from '@/components/Tag'
 import siteMetadata from '@/data/siteMetadata'
 import { getAllFilesFrontMatter } from '@/lib/mdx'
@@ -7,6 +8,8 @@ import formatDate from '@/lib/utils/formatDate'
 import Image from '@/components/Image'
 import Hero from '@/components/Hero'
 import RecentProjects from '@/components/RecentProjects'
+
+const Mascot = dynamic(() => import('@/components/Mascot'), { ssr: false })
 
 const MAX_DISPLAY = 12
 
@@ -20,6 +23,7 @@ export default function Home({ posts }) {
   return (
     <>
       <PageSEO title={siteMetadata.title} description={siteMetadata.description} />
+      <Mascot />
       <Hero />
       <div className="h-content sm:h-content-sm flex flex-col justify-around">
         <h1 className="my-28 select-none text-center text-6xl font-extrabold leading-none tracking-tightest sm:my-10 sm:text-8.5xl">

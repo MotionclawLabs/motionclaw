@@ -1,11 +1,11 @@
 ---
 name: Motionclaw Labs
 avatar: /static/images/avatar.jpg
-occupation: 
-company: 
+occupation:
+company:
 email: fiqgant@gmail.com
-linkedin: 
-github:
+linkedin:
+youtube: https://www.youtube.com/channel/UCNFP2FOUcvWGrFncPv2FHDA
 ---
 
 **Motionclaw** Labs is a creative agency built with one purpose: to help you. We offer impeccable service combining a nice, minimalist & elegant design with quality.
